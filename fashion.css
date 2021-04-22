@@ -207,6 +207,7 @@ category
 desire
 --------------------------------------------------*/
 .desire{
+  max-width: 1265px;
   width: 100%;
   height: 85vh;
   padding: 0px;
