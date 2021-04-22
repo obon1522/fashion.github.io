@@ -128,7 +128,7 @@ main
 ---------------------------------------------------------*/
 .main{
   height: 970px;
-  background-image:url(../img/main5.jpg);
+  background-image:url(main5.jpg);
   background-position: center;
   background-size: cover;
 }
