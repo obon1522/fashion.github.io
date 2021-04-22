@@ -214,7 +214,10 @@ desire
   color: #fff;
   position: relative;
 }
-
+.desire img{
+  max-width: 1265px;
+  width: 100%;
+}
 .desireRGBA{
  /* 背景画像の透過用css */
  height: 100%;
