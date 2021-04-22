@@ -207,9 +207,6 @@ category
 desire
 --------------------------------------------------*/
 .desire{
-  background-image: url(../img/desire.jpg);
-  background-position: center;
-  background-size: cover;
   height: 85vh;
   padding: 0px;
   color: #fff;
