@@ -421,10 +421,6 @@ footer
     width: 44%;
 }
 .desire{
-  background-image: url(../img/desire.jpg);
-  background-position: center;
-  background-size: cover;
-  height: 85vh;
   padding: 0px;
   position: relative;
   color: #3F4551;
