@@ -217,11 +217,7 @@ desire
 .desireimg{
   max-width: 1265px;
   width: 100%;
-}
-.desireRGBA{
- /* 背景画像の透過用css */
- height: 100%;
- background: rgba(255,255,255,0.5);
+  opacity: 0.5
 }
 .desire-content{
   position: absolute;
