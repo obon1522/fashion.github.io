@@ -217,6 +217,8 @@ desire
 .desireimg{
   max-width: 1265px;
   width: 100%;
+  height: 100%;
+  background: rgba(255,255,255,0.5);
 }
 .desireRGBA{
  /* 背景画像の透過用css */
